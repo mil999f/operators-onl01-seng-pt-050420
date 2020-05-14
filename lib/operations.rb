@@ -1,8 +1,7 @@
 speed = 60
-
+arg = ''
 def unsafe >40 ? (speed = 'true' ; puts "false!")
   
-
 end
 
 
