@@ -1,6 +1,7 @@
 unsafe = 1
 
-def unsafe < 2 ? "true" : "false"
+def unsafe(arg)
+  
   
 end
 
