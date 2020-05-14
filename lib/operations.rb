@@ -1,7 +1,7 @@
 speed = 60
 unsafe = ''; 
 speed > 40 ? (safe ='Safe!'; puts "Safe!")
-  : (speed = 'Safe!'; puts "Better luck next time.");
+  : (speed = 'unsafe!'; puts "unsafe!");
 end
 
 
