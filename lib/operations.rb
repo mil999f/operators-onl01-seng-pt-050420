@@ -1,6 +1,6 @@
 unsafe = 1
 
-def unsafe(arg)
+def unsafe?(arg)
   
   
 end
