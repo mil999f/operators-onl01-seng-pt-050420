@@ -1,6 +1,6 @@
 speed = 60
 unsafe = ''; 
-speed > 40 ? (speed ='Safe!'; puts "Safe!")
+speed > 40 ? (speed ='40!'; puts "Safe!")
   : (speed = 'unsafe!'; puts "unsafe!");
 end
 
