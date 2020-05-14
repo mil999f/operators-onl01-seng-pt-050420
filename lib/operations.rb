@@ -1,6 +1,6 @@
-speed = 1
+unsafe = 1
 
-def unsafe < 2 ? 'true' : "false"
+def unsafe < 2 ? "true" : "false"
   
 end
 
