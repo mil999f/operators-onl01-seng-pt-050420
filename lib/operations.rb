@@ -1,5 +1,5 @@
 
-def unsafe?(speed = 60 ; puts "unsafeafe!")
+def unsafe?(speed = 60 ; puts "unsafe!")
   
 
 end
