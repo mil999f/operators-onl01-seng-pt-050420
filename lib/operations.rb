@@ -3,7 +3,7 @@ unsafe = '';
 safe > 40 ? (safe ='Safe!'; puts "Safe!")
   : (safe = 'Pass!'; puts "Better luck next time.");
 
-puts grade
+puts speed
 
 
 
