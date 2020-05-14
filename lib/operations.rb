@@ -1,9 +1,8 @@
-speed = 60
-arg = ''
-def unsafe >40 ? (speed = 'true' ; puts "false!")
+speed = 1
+
+def unsafe >1 ? (speed = 'true' ; puts "false!")
   
 end
-
 
 
 
